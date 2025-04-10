@@ -1,0 +1,16 @@
+D:\My Application\Migration\WebApiExample.DataStore\bin\Debug\net8.0\WebApiExample.DataStore.dll.config
+D:\My Application\Migration\WebApiExample.DataStore\bin\Debug\net8.0\WebApiExample.DataStore.deps.json
+D:\My Application\Migration\WebApiExample.DataStore\bin\Debug\net8.0\WebApiExample.DataStore.runtimeconfig.json
+D:\My Application\Migration\WebApiExample.DataStore\bin\Debug\net8.0\WebApiExample.DataStore.dll
+D:\My Application\Migration\WebApiExample.DataStore\bin\Debug\net8.0\WebApiExample.DataStore.pdb
+D:\My Application\Migration\WebApiExample.DataStore\bin\Debug\net8.0\WebApiExample.Common.dll
+D:\My Application\Migration\WebApiExample.DataStore\bin\Debug\net8.0\WebApiExample.Common.pdb
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\WebApiExample.DataStore.csproj.AssemblyReference.cache
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\WebApiExample.DataStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\WebApiExample.DataStore.csproj.CoreCompileInputs.cache
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\WebApiEx.3A8BA47B.Up2Date
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\WebApiExample.DataStore.dll
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\refint\WebApiExample.DataStore.dll
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\WebApiExample.DataStore.pdb
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\WebApiExample.DataStore.genruntimeconfig.cache
+D:\My Application\Migration\WebApiExample.DataStore\obj\Debug\net8.0\ref\WebApiExample.DataStore.dll
