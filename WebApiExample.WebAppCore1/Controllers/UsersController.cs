@@ -16,7 +16,9 @@ namespace WebApiExample.WebApp.Controllers
             _userService = userService;
         }
 
+        [HttpGet]
         public async Task<IActionResult> Get()
+        
         {
             try
             {
@@ -30,7 +32,8 @@ namespace WebApiExample.WebApp.Controllers
             }
         }
 
-        public async Task<IActionResult> Get(Guid id)
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(Guid id)
         {
             try
             {

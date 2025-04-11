@@ -1,6 +1,0 @@
-D:\My Application\Migration\WebApiExample.Common\bin\Debug\WebApiExample.Common.dll
-D:\My Application\Migration\WebApiExample.Common\bin\Debug\WebApiExample.Common.pdb
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\WebApiExample.Common.csproj.AssemblyReference.cache
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\WebApiExample.Common.csproj.CoreCompileInputs.cache
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\WebApiExample.Common.dll
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\WebApiExample.Common.pdb

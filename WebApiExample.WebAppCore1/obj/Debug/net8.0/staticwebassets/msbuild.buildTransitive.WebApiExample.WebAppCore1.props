@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\WebApiExample.WebAppCore1.props" />
-</Project>

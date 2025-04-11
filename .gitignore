@@ -1,0 +1,62 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.lib
+*.log
+*.tmp
+*.csproj.user
+
+# ASP.NET Core secrets
+appsettings.Development.json
+appsettings.*.json
+
+# Rider IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
+*.nlog
+*.trace
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Package directories
+node_modules/
+packages/
+wwwroot/lib/
+
+# Generated files
+*.g.cs
+*.generated.cs
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+dist/
+
+# Others
+.vs/WebApiExample/DesignTimeBuild/.dtbcache.v2

@@ -1,9 +1,0 @@
-D:\My Application\Migration\WebApiExample.Common\bin\Debug\net8.0\WebApiExample.Common.deps.json
-D:\My Application\Migration\WebApiExample.Common\bin\Debug\net8.0\WebApiExample.Common.dll
-D:\My Application\Migration\WebApiExample.Common\bin\Debug\net8.0\WebApiExample.Common.pdb
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\net8.0\WebApiExample.Common.GeneratedMSBuildEditorConfig.editorconfig
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\net8.0\WebApiExample.Common.csproj.CoreCompileInputs.cache
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\net8.0\WebApiExample.Common.dll
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\net8.0\refint\WebApiExample.Common.dll
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\net8.0\WebApiExample.Common.pdb
-D:\My Application\Migration\WebApiExample.Common\obj\Debug\net8.0\ref\WebApiExample.Common.dll

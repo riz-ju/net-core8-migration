@@ -6,7 +6,7 @@ using System.Web;
 namespace WebApiExample.WebApp.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
-    {
+    {   
         public override string AreaName
         {
             get
