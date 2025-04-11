@@ -29,10 +29,10 @@ app.UseSystemWebAdapters();
 
 app.MapDefaultControllerRoute();
 
-//app.MapControllerRoute(
-//    name: "default",
-//    pattern: "{controller=Users}/{action=Get}/{id?}");
-app.MapControllers();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Users}/{action=Get}/{id?}");
+//app.MapControllers();
 
 //app.MapForwarder("/{**catch-all}", app.Configuration["ProxyTo"]).Add(static builder => ((RouteEndpointBuilder)builder).Order = int.MaxValue);
 
